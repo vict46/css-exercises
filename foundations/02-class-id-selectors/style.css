@@ -1,0 +1,18 @@
+.odd-element {
+    background-color: #FFCCCB;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#title {
+    color: blue;
+    font-size: 50px;
+}
+
+.emphasis {
+    font-size: 24px;
+}
+
+.clean {
+    background-color: lightgreen;
+    font-weight: bold;
+}
